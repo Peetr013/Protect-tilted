@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Battle Bus",
+    "hp": 100,
+    "dmg": 10,
+    "imagePath": "./res/img/boss/battle_bus.png",
+    "width": 250,
+    "height": 250,
+    "velocity": 0.5,
+    "type": "air"
+  },
+  {
+    "name": "Jirka",
+    "hp": 50,
+    "dmg": 25,
+    "imagePath": "./res/img/boss/BOSS.png",
+    "width": 200,
+    "height": 250,
+    "velocity": 1,
+    "type": "ground"
+  },
+  {
+    "name": "Vladimir",
+    "hp": 2,
+    "dmg": 35,
+    "imagePath": "./res/img/boss/fn kid.png",
+    "width": 200,
+    "height": 200,
+    "velocity": 2,
+    "type": "ground"
+  },
+  {
+    "name": "Kevin",
+    "hp": 100,
+    "dmg": 15,
+    "imagePath": "./res/img/boss/kevin.png",
+    "width": 300,
+    "height": 250,
+    "velocity": 0.25,
+    "type": "air"
+  },
+  {
+    "name": "Mecha",
+    "hp": 200,
+    "dmg": 5,
+    "imagePath": "./res/img/boss/mecha.png",
+    "width": 200,
+    "height": 200,
+    "velocity": 0.5,
+    "type": "ground"
+  }
+]
